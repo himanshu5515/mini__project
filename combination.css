@@ -1,0 +1,25 @@
+#one{
+    height: 100px;
+    width: 300px;
+    border: 2px solid black;
+    margin: auto;
+    }
+
+    #two{
+        height: 100px;
+        width: 300px;
+        border: 2px solid black;
+        margin: auto;
+    }
+    h1{
+        text-align: center;
+    }
+    h3{
+        text-align: center;
+    }
+    #btn{
+        margin-left: 720px;
+    }
+    h5{
+        text-align: center;
+    }
